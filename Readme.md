@@ -18,16 +18,27 @@ docker-laboratory/
 │ 
 
 ├── Dockerfile 
+
 ├── README.md 
+
 ├── lab-1/ 
+
 │   └── run_nginx/ 
+
 ├── lab-2/ 
+
 │   └── create_custom_image/ 
+
 ├── lab-3/ 
+
 │   └── mount_volume/ 
+
 ├── lab-4/ 
+
 │   └── manage_networks/ 
+
 └── scripts/ 
+
     └── docker_commands.sh 
 
 # Introducción
