@@ -4,15 +4,15 @@ No se incluye comandos de docker compose ya que para esto se realizará otro lab
 
 Cada uno de los directorios (Lab-1, Lab-2, etc.) Contiene una práctica o experimento:
 
-## Laboratorio 1: 
+### Laboratorio 1: Crear y ejecutar un contenedo nginx en un solo comando. Validar su funcionamiento.
 
-## Laboratorio 2:  
+### Laboratorio 2:  
 
-## Laboratorio 3:
+### Laboratorio 3:
 
-## Laboratorio 4:
+### Laboratorio 4:
 
-## Estructura del proyecto:
+### Estructura del proyecto:
 docker-laboratory/ 
 
 │ 
