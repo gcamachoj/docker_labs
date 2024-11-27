@@ -14,6 +14,7 @@ Cada uno de los directorios (Lab-1, Lab-2, etc.) Contiene una práctica o experi
 
 ## Estructura del proyecto:
 docker-laboratory/ 
+
 │ 
 
 ├── Dockerfile 
