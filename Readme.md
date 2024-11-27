@@ -4,29 +4,29 @@ No se incluye comandos de docker compose ya que para esto se realizará otro lab
 
 Cada uno de los directorios (Lab-1, Lab-2, etc.) Contiene una práctica o experimento:
 
-## Laboratorio 1:
+## Laboratorio 1: 
 
-## Laboratorio 2: 
+## Laboratorio 2:  
 
 ## Laboratorio 3:
 
 ## Laboratorio 4:
 
 ## Estructura del proyecto:
-docker-laboratory/
-│
-├── Dockerfile
-├── README.md
-├── lab-1/
-│   └── run_nginx/
-├── lab-2/
-│   └── create_custom_image/
-├── lab-3/
-│   └── mount_volume/
-├── lab-4/
-│   └── manage_networks/
-└── scripts/
-    └── docker_commands.sh
+docker-laboratory/ 
+│ 
+├── Dockerfile 
+├── README.md 
+├── lab-1/ 
+│   └── run_nginx/ 
+├── lab-2/ 
+│   └── create_custom_image/ 
+├── lab-3/ 
+│   └── mount_volume/ 
+├── lab-4/ 
+│   └── manage_networks/ 
+└── scripts/ 
+    └── docker_commands.sh 
 
 # Introducción
 
@@ -66,7 +66,7 @@ Verificar que esté funcionando: Acceder a http://localhost:8080 en su navegador
 Este se ejecuta el contenedor, el cual si no existe y no existe la imagen de NGINX en el equipo de forma local, el sistema genera la descarga de dicha imagen y la almacena en la biblioteca local de imágenes creando a partir de esta a su vez un contenedor y ejecutándolo bajo el nombre my_nginx en el puerto 8080.
 
 
-### lABORATORIO 2: Crear una imagen personalizada:
+### LABORATORIO 2: Crear una imagen personalizada:
 En este laboratorio, se crea una imagen personalizada de Docker usando Dockerfile.
 * Objetivo: Crear una imagen que instale curl en una imagen base de ubuntu.
 
